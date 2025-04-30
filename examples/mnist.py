@@ -163,4 +163,4 @@ def test_mnist(num_samples, root_dir, num_obj, encoder=None):
 
 # You would call this function with a valid sample index and dataset directory
 if __name__ == "__main__":
-    test_mnist(10, "synthetic_dataset_3", 3, encoder="nn")
+    test_mnist(1000, "synthetic_dataset_1", 1, encoder=None)

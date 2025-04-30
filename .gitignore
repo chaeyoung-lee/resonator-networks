@@ -1,2 +1,5 @@
 data
 .DS_Store
+*.pth
+__pycache__
+synthetic_data*
